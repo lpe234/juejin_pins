@@ -9,3 +9,5 @@ out
 gen
 
 venv/
+# pins data path
+pins/json_data/
